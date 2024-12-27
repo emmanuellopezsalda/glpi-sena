@@ -1,0 +1,37 @@
+1734627880
+971090578e764f7222082f46c1b25e5d3ebc17c8
+a:1:{s:54:"bn_count_Document_7dc7f4b8-61ff-4147-b994-5541bddd7b66";s:1075:"      <style>
+         #bn_1291660139 {
+            background-color: #b4b4b4;
+            color: #4e4e4e;
+         }
+
+         #bn_1291660139:hover {
+            background-color: #8e8e8e;
+            border: 1px solid #686868;
+         }
+
+         .theme-dark #bn_1291660139 {
+            background-color: #4e4e4e;
+            color: #b4b4b4;
+         }
+
+         .theme-dark #bn_1291660139:hover {
+            background-color: #8e8e8e;
+            color: #4e4e4e;
+            border: 1px solid #686868;
+         }
+      </style>
+      <a href='/GLPI/front/document.php?reset=reset'
+         id="bn_1291660139"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="1"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">1</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Documentos">Documentos</div>
+         <i class="main-icon ti ti-files"></i>
+      </a>";}

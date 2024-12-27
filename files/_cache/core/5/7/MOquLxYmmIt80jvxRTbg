@@ -1,0 +1,37 @@
+1734627880
+93634534904782504235c8ebe47b1f8c5daf8067
+a:1:{s:52:"bn_count_Entity_9b82951a-ba52-45cc-a2d3-1d238ec37adf";s:1067:"      <style>
+         #bn_1863487579 {
+            background-color: #f9f9f9;
+            color: #939393;
+         }
+
+         #bn_1863487579:hover {
+            background-color: #d3d3d3;
+            border: 1px solid #adadad;
+         }
+
+         .theme-dark #bn_1863487579 {
+            background-color: #939393;
+            color: #f9f9f9;
+         }
+
+         .theme-dark #bn_1863487579:hover {
+            background-color: #d3d3d3;
+            color: #939393;
+            border: 1px solid #adadad;
+         }
+      </style>
+      <a href='/GLPI/front/entity.php?reset=reset'
+         id="bn_1863487579"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="1"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">1</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Entidad">Entidad</div>
+         <i class="main-icon ti ti-stack"></i>
+      </a>";}

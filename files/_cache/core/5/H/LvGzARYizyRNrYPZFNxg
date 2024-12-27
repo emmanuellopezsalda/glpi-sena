@@ -1,0 +1,37 @@
+1734627879
+e2dfcd201ce18b76b9cbd75997ec0cc322ec3a8e
+a:1:{s:52:"bn_count_Change_ab950dbd-cd25-466d-8dff-7dcaca386564";s:1067:"      <style>
+         #bn_39599925 {
+            background-color: #cae3c4;
+            color: #569546;
+         }
+
+         #bn_39599925:hover {
+            background-color: #9bca90;
+            border: 1px solid #6db25c;
+         }
+
+         .theme-dark #bn_39599925 {
+            background-color: #569546;
+            color: #cae3c4;
+         }
+
+         .theme-dark #bn_39599925:hover {
+            background-color: #9bca90;
+            color: #569546;
+            border: 1px solid #6db25c;
+         }
+      </style>
+      <a href='/GLPI/front/change.php?reset=reset'
+         id="bn_39599925"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Changes">Changes</div>
+         <i class="main-icon ti ti-clipboard-check"></i>
+      </a>";}

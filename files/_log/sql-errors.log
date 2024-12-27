@@ -1,0 +1,520 @@
+[2024-12-17 14:58:17] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT"} 
+[2024-12-17 14:58:17] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.193\", 30.81Mio)"} 
+[2024-12-17 14:58:18] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.736\", 30.68Mio)"} 
+[2024-12-17 14:58:18] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.058\", 30.88Mio)"} 
+[2024-12-17 14:58:19] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.735\", 30.74Mio)"} 
+[2024-12-17 14:58:19] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.050\", 30.95Mio)"} 
+[2024-12-17 14:58:20] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.743\", 30.81Mio)"} 
+[2024-12-17 14:58:20] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.053\", 31.02Mio)"} 
+[2024-12-17 14:58:20] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.689\", 30.88Mio)"} 
+[2024-12-17 14:58:20] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.042\", 31.08Mio)"} 
+[2024-12-17 14:58:21] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.923\", 30.95Mio)"} 
+[2024-12-17 14:58:21] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\cron.php:64                                  CronTask::launch()
+  {"user":"@DESKTOP-732BNJT","mem_usage":"0.042\", 31.15Mio)"} 
+[2024-12-17 15:07:43] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT"} 
+[2024-12-17 15:07:43] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT","mem_usage":"0.080\", 31.38Mio)"} 
+[2024-12-17 15:07:44] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT","mem_usage":"0.650\", 31.24Mio)"} 
+[2024-12-17 15:07:44] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT","mem_usage":"0.045\", 31.45Mio)"} 
+[2024-12-17 15:07:44] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT","mem_usage":"0.627\", 31.31Mio)"} 
+[2024-12-17 15:07:44] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT","mem_usage":"0.041\", 31.51Mio)"} 
+[2024-12-17 15:07:45] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT","mem_usage":"0.721\", 31.38Mio)"} 
+[2024-12-17 15:07:45] glpisqllog.WARNING: DBmysql::query() in C:\xampp\htdocs\glpi\src\DBmysql.php line 404
+  *** MySQL query warnings:
+  SQL: SELECT * FROM `glpi_useremails` WHERE `users_id` = '' ORDER BY `is_default` DESC LIMIT 1
+  Warnings: 
+1292: Truncated incorrect DECIMAL value: ''
+  Backtrace :
+  src\DBmysqlIterator.php:112                        
+  src\DBmysql.php:1056                               DBmysqlIterator->execute()
+  src\UserEmail.php:74                               DBmysql->request()
+  src\User.php:584                                   UserEmail::getDefaultForUser()
+  src\NotificationTargetCommonITILObject.php:1680    User->getDefaultEmail()
+  src\NotificationTargetCommonITILObject.php:1171    NotificationTargetCommonITILObject->getActorData()
+  src\NotificationTargetTicket.php:161               NotificationTargetCommonITILObject->getDataForObject()
+  src\NotificationTargetCommonITILObject.php:1024    NotificationTargetTicket->getDataForObject()
+  src\NotificationTarget.php:1334                    NotificationTargetCommonITILObject->addDataForTemplate()
+  src\NotificationTemplate.php:278                   NotificationTarget->getForTemplate()
+  src\NotificationEventAbstract.php:119              NotificationTemplate->getTemplateByLanguage()
+  src\NotificationEvent.php:187                      NotificationEventAbstract::raise()
+  src\CommonITILObject.php:7813                      NotificationEvent::raiseEvent()
+  src\Ticket.php:2169                                CommonITILObject->handleNewItemNotifications()
+  src\CommonDBTM.php:1327                            Ticket->post_addItem()
+  src\MailCollector.php:848                          CommonDBTM->add()
+  src\MailCollector.php:1865                         MailCollector->collect()
+  src\CronTask.php:1018                              MailCollector::cronMailgate()
+  front\crontask.form.php:52                         CronTask::launch()
+  {"user":"2@DESKTOP-732BNJT","mem_usage":"0.050\", 31.58Mio)"} 

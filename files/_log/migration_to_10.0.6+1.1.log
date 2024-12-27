@@ -1,0 +1,11 @@
+2024-12-10 17:44:08 [2@DESKTOP-732BNJT]
+0 seconds for "Installation of plugin FusionInventory" @ 2024-12-10 17:44:08 [2@DESKTOP-732BNJT]
+0 seconds for "Clean data from old installation of the plugin" @ 2024-12-10 17:44:08 [2@DESKTOP-732BNJT]
+0 seconds for "Clean rules from old installation of the plugin" @ 2024-12-10 17:44:10 [2@DESKTOP-732BNJT]
+2 seconds for "Creation tables in database" @ 2024-12-10 17:44:10 [2@DESKTOP-732BNJT]
+0 seconds for "Creation of folders" @ 2024-12-10 17:44:12 [2@DESKTOP-732BNJT]
+2 seconds for "Initialize profiles" @ 2024-12-10 17:44:13 [2@DESKTOP-732BNJT]
+1 segundos for "Initialize configuration" @ 2024-12-10 17:44:13 [2@DESKTOP-732BNJT]
+0 seconds for "Initialize agent TASKS" @ 2024-12-10 17:44:13 [2@DESKTOP-732BNJT]
+0 seconds for "Initialize cron task" @ 2024-12-10 17:44:25 [2@DESKTOP-732BNJT]
+12 seconds for "Create rules" @ 

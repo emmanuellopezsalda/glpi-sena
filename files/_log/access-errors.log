@@ -1,0 +1,15 @@
+2024-12-11 18:12:34 [@DESKTOP-732BNJT]
+User ID:  tried to access or perform an action on /glpi/plugins/fusioninventory/front/menu.php with insufficient rights. Additional information: No additional information given
+	Stack Trace:
+		C:\xampp\htdocs\glpi\plugins\fusioninventory\front\menu.php:58 displayRightError()
+2024-12-16 18:09:25 [10@DESKTOP-732BNJT]
+CSRF check failed for User ID: 10 at /glpi/front/tracking.injector.php2024-12-16 18:09:29 [10@DESKTOP-732BNJT]
+CSRF check failed for User ID: 10 at /glpi/front/tracking.injector.php2024-12-16 18:09:31 [10@DESKTOP-732BNJT]
+CSRF check failed for User ID: 10 at /glpi/front/tracking.injector.php2024-12-16 18:09:34 [10@DESKTOP-732BNJT]
+User ID: 10 tried to access or perform an action on /glpi/front/user.form.php?id=10 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		C:\xampp\htdocs\glpi\src\CommonDBTM.php:6353 displayRightError()
+		C:\xampp\htdocs\glpi\src\CommonDBTM.php:6443 displayAccessDeniedPage()
+		C:\xampp\htdocs\glpi\front\user.form.php:241 displayFullPageForItem()
+2024-12-17 15:07:53 [2@DESKTOP-732BNJT]
+CSRF check failed for User ID: 2 at /glpi/front/crontask.form.php

@@ -1,0 +1,106 @@
+2024-12-10 15:04:28 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-10 18:34:30 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-11 15:07:17 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-11 16:52:25 [@DESKTOP-732BNJT]
+[login] 3: Inicio de sesión fallido para  desde la IP ::1
+2024-12-11 16:52:42 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-11 18:20:28 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-12 16:22:00 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-16 14:43:20 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-16 15:54:36 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-16 16:33:11 [5@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario normal
+2024-12-16 16:33:32 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario normal
+2024-12-16 16:34:04 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 16:35:08 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 16:39:38 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 16:39:50 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 16:50:32 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 16:51:10 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:05:18 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:05:40 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:08:49 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:09:03 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:11:15 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:11:36 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:20:42 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:21:26 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:24:37 [9@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario prueba
+2024-12-16 17:24:48 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario prueba
+2024-12-16 17:28:20 [8@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:28:34 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:46:44 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:47:10 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:50:01 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:50:20 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 17:51:43 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 17:52:02 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 18:09:11 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 18:09:36 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 18:09:38 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 18:10:00 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 18:34:37 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 18:34:48 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 18:38:29 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 18:38:42 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 18:40:32 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 18:40:45 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-16 18:43:11 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-16 18:43:21 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-17 14:57:01 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-17 14:58:32 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-17 15:17:41 [10@DESKTOP-732BNJT]
+[Impersonate] 3: glpi comienza a hacerse pasar por usuario CORRIENTE
+2024-12-17 15:17:56 [2@DESKTOP-732BNJT]
+[Impersonate] 3: glpi deja de hacerse pasar por usuario CORRIENTE
+2024-12-19 17:34:19 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1
+2024-12-19 17:58:06 [@DESKTOP-732BNJT]
+[login] 3: glpi inicia sesión desde la IP ::1

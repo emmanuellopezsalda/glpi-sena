@@ -1,0 +1,1430 @@
+2024-12-10 15:04:25 [@DESKTOP-732BNJT]
+Interno #1: Lanzar contract
+2024-12-10 17:43:55 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar infocom
+2024-12-10 17:57:28 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgate
+2024-12-10 18:10:23 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar session
+2024-12-10 18:19:52 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar PurgeLogs
+2024-12-10 18:19:52 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar checkAllUpdates
+2024-12-10 18:19:52 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar DomainsAlert
+2024-12-10 18:19:52 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar cleanorphans
+2024-12-10 18:19:52 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar pendingreason_autobump_autosolve
+2024-12-10 18:20:24 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar graph
+2024-12-10 18:20:34 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar Cleanoldagents
+2024-12-10 18:20:34 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-10 18:20:34 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleantaskjob
+2024-12-10 18:20:34 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar cleannetworkportlogs
+2024-12-10 18:20:34 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar cleanoldagents
+2024-12-10 18:29:55 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar reservation
+2024-12-10 18:34:28 [@DESKTOP-732BNJT]
+Interno #1: Lanzar closeticket
+2024-12-10 18:44:55 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar alertnotclosed
+2024-12-10 18:57:35 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar slaticket
+2024-12-11 15:07:10 [@DESKTOP-732BNJT]
+Interno #1: Lanzar createinquest
+2024-12-11 15:12:38 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar watcher
+2024-12-11 15:17:54 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar RecurrentItems
+2024-12-11 15:26:57 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar planningrecall
+2024-12-11 15:36:23 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-11 15:42:10 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotificationclean
+2024-12-11 16:03:56 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar temp
+2024-12-11 16:09:53 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgateerror
+2024-12-11 16:16:29 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar certificate
+2024-12-11 16:24:07 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar olaticket
+2024-12-11 16:32:15 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgate
+2024-12-11 16:37:18 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar slaticket
+2024-12-11 16:46:55 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar graph
+2024-12-11 16:52:40 [@DESKTOP-732BNJT]
+Interno #1: Lanzar reservation
+2024-12-11 17:55:45 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar closeticket
+2024-12-11 18:01:01 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar alertnotclosed
+2024-12-11 18:08:57 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar contract
+2024-12-11 18:17:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-11 18:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 18:17:36 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleanondemand
+2024-12-11 18:17:36 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar taskscheduler
+2024-12-11 18:18:48 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar planningrecall
+2024-12-11 18:20:24 [@DESKTOP-732BNJT]
+Interno #1: Lanzar queuednotification
+2024-12-11 18:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar checkAllUpdates
+2024-12-11 18:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar DomainsAlert
+2024-12-11 18:22:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar Cleanoldagents
+2024-12-11 18:22:21 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar taskscheduler
+2024-12-11 18:22:21 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar wakeupAgents
+2024-12-11 18:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar cleantaskjob
+2024-12-11 18:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar cleannetworkportlogs
+2024-12-11 18:27:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleanoldagents
+2024-12-11 18:27:21 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar taskscheduler
+2024-12-11 18:27:21 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar wakeupAgents
+2024-12-11 18:30:45 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar RecurrentItems
+2024-12-11 18:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 18:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 18:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 18:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 18:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 18:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 18:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-11 18:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-11 18:47:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-11 18:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 18:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 18:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 18:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:02:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:02:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:12:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-11 19:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-11 19:17:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-11 19:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:26:53 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar olaticket
+2024-12-11 19:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-11 19:47:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-11 19:47:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-11 19:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 19:54:58 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgate
+2024-12-11 19:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 19:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:02:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:02:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:07:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:12:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-11 20:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-11 20:17:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-11 20:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-11 20:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-11 20:47:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-11 20:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-11 20:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-11 20:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 15:57:23 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 15:57:23 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 15:57:23 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 16:02:25 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:02:25 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:17:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:21:55 [@DESKTOP-732BNJT]
+Interno #1: Lanzar slaticket
+2024-12-12 16:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 16:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 16:27:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 16:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:47:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 16:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 16:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 16:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 16:57:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 17:02:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:02:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:12:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 17:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 17:27:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 17:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:47:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 17:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 17:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 17:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 17:57:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 18:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 18:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 18:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 18:07:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 18:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 18:12:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 18:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 18:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 18:17:36 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleanondemand
+2024-12-12 18:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar checkAllUpdates
+2024-12-12 18:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar DomainsAlert
+2024-12-12 18:22:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar Cleanoldagents
+2024-12-12 18:22:22 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar taskscheduler
+2024-12-12 18:22:22 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar wakeupAgents
+2024-12-12 18:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 18:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 18:27:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 18:27:36 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar cleantaskjob
+2024-12-12 18:27:36 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar cleannetworkportlogs
+2024-12-12 18:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar cleanoldagents
+2024-12-12 18:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 18:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 18:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 18:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 18:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 18:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:02:46 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 19:02:46 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 19:02:47 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 19:03:00 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar taskscheduler
+2024-12-12 19:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:07:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:12:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 19:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 19:32:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 19:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 19:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 19:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:02:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 20:02:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 20:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 20:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:07:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:12:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-12 20:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-12 20:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-12 20:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:47:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-12 20:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-12 20:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 14:43:15 [@DESKTOP-732BNJT]
+Interno #1: Lanzar temp
+2024-12-16 14:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 14:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar checkAllUpdates
+2024-12-16 14:47:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar DomainsAlert
+2024-12-16 14:47:22 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar Cleanoldagents
+2024-12-16 14:47:22 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar taskscheduler
+2024-12-16 14:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar wakeupAgents
+2024-12-16 14:52:35 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar cleanondemand
+2024-12-16 14:52:35 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleantaskjob
+2024-12-16 14:52:35 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar cleannetworkportlogs
+2024-12-16 14:52:35 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar cleanoldagents
+2024-12-16 14:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 14:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:02:25 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:02:26 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:07:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:08:38 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar infocom
+2024-12-16 15:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:12:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 15:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-16 15:17:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-16 15:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 15:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 15:54:33 [@DESKTOP-732BNJT]
+Interno #1: Lanzar graph
+2024-12-16 16:00:13 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar reservation
+2024-12-16 16:05:35 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar session
+2024-12-16 16:28:18 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:35:38 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:40:04 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:44:52 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar planningrecall
+2024-12-16 16:48:59 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:49:11 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:49:59 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar RecurrentItems
+2024-12-16 16:51:41 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:51:52 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:55:39 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:55:51 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 16:57:42 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar olaticket
+2024-12-16 17:04:36 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgate
+2024-12-16 17:05:53 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 17:09:15 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 17:09:41 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 17:18:46 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar closeticket
+2024-12-16 17:20:09 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotificationclean
+2024-12-16 17:26:17 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 17:28:52 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 17:33:40 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar alertnotclosed
+2024-12-16 17:44:19 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar createinquest
+2024-12-16 17:50:41 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 17:52:52 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 17:57:18 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar watcher
+2024-12-16 18:05:52 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgateerror
+2024-12-16 18:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 18:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-16 18:17:21 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-16 18:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 18:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 18:24:17 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar certificate
+2024-12-16 18:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 18:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 18:30:16 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar slaticket
+2024-12-16 18:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 18:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 18:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 18:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 18:39:36 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 18:41:04 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 18:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 18:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 18:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 18:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-16 18:47:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-16 18:48:33 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar contract
+2024-12-16 18:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 18:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 18:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 18:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:07:26 [2@DESKTOP-732BNJT]
+No se puede obtener el bloqueo de la base de datos
+2024-12-16 19:07:57 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-16 19:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:16:01 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar temp
+2024-12-16 19:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 19:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-16 19:17:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-16 19:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:39:38 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar planningrecall
+2024-12-16 19:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 19:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-16 19:47:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-16 19:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 19:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 19:57:53 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar graph
+2024-12-16 20:02:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:03:58 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar reservation
+2024-12-16 20:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 20:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-16 20:17:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-16 20:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-16 20:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-16 20:47:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-16 20:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-16 20:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-16 20:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 14:56:59 [@DESKTOP-732BNJT]
+Interno #1: Lanzar olaticket
+2024-12-17 14:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 14:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar checkAllUpdates
+2024-12-17 14:57:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar DomainsAlert
+2024-12-17 14:57:22 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar Cleanoldagents
+2024-12-17 14:57:22 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar taskscheduler
+2024-12-17 14:58:05 [@DESKTOP-732BNJT]
+Interno #1: Lanzar mailgate
+2024-12-17 15:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar wakeupAgents
+2024-12-17 15:02:36 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar cleantaskjob
+2024-12-17 15:02:36 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleannetworkportlogs
+2024-12-17 15:02:36 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar cleanoldagents
+2024-12-17 15:02:36 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar cleanondemand
+2024-12-17 15:05:47 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar RecurrentItems
+2024-12-17 15:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:07:34 [2@DESKTOP-732BNJT]
+No se puede obtener el bloqueo de la base de datos
+2024-12-17 15:07:37 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgate
+2024-12-17 15:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:12:56 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar slaticket
+2024-12-17 15:17:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:22:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:23:16 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar queuednotification
+2024-12-17 15:24:52 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar mailgate
+2024-12-17 15:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 15:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 15:27:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 15:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:41:08 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar planningrecall
+2024-12-17 15:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:52:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 15:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 15:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 15:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 15:57:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 16:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:30:24 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 16:30:24 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 16:30:25 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 16:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:35:02 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar temp
+2024-12-17 16:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:52:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 16:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 16:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 17:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 17:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 17:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:17:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:22:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 17:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 17:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 17:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:52:25 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:52:25 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 17:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 17:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 18:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 18:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 18:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar PurgeLogs
+2024-12-17 18:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar cleanorphans
+2024-12-17 18:22:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar taskscheduler
+2024-12-17 18:22:22 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar wakeupAgents
+2024-12-17 18:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 18:32:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 18:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 18:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:47:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 18:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 18:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:02:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 19:02:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 19:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 19:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:07:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:22:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 19:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 19:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 19:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:47:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 19:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 19:57:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:02:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 20:02:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 20:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 20:07:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:07:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:12:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:22:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:27:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:27:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:32:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-17 20:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-17 20:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-17 20:37:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:37:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:42:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:42:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:47:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:52:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:52:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-17 20:57:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-17 20:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 17:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-19 17:32:23 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar checkAllUpdates
+2024-12-19 17:32:23 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar DomainsAlert
+2024-12-19 17:32:23 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar Cleanoldagents
+2024-12-19 17:32:23 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar taskscheduler
+2024-12-19 17:34:15 [@DESKTOP-732BNJT]
+Interno #1: Lanzar graph
+2024-12-19 17:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar wakeupAgents
+2024-12-19 17:37:40 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar cleantaskjob
+2024-12-19 17:37:40 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleannetworkportlogs
+2024-12-19 17:37:40 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar cleanoldagents
+2024-12-19 17:37:40 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar cleanondemand
+2024-12-19 17:40:14 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar reservation
+2024-12-19 17:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 17:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 17:45:17 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar closeticket
+2024-12-19 17:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 17:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 17:52:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 17:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 17:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 17:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 17:57:45 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar alertnotclosed
+2024-12-19 17:58:02 [@DESKTOP-732BNJT]
+Interno #1: Lanzar olaticket
+2024-12-19 18:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-19 18:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-19 18:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-19 18:03:57 [2@DESKTOP-732BNJT]
+Interno #1: Ejecutar infocom
+2024-12-19 18:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:17:21 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:17:21 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:22:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-19 18:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-19 18:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-19 18:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:52:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 18:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 18:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-19 19:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-19 19:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-19 19:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:17:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:22:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-19 19:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-19 19:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-19 19:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:52:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 19:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 19:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-19 20:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-19 20:02:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-19 20:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:17:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:22:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-19 20:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-19 20:32:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-19 20:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:52:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-19 20:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-19 20:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 18:22:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-20 18:22:23 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar checkAllUpdates
+2024-12-20 18:22:23 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar DomainsAlert
+2024-12-20 18:22:23 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar Cleanoldagents
+2024-12-20 18:22:23 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar taskscheduler
+2024-12-20 18:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar wakeupAgents
+2024-12-20 18:27:35 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar cleantaskjob
+2024-12-20 18:27:35 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar cleannetworkportlogs
+2024-12-20 18:27:35 [@DESKTOP-732BNJT]
+Externo #4: Ejecutar cleanoldagents
+2024-12-20 18:27:35 [@DESKTOP-732BNJT]
+Externo #5: Ejecutar cleanondemand
+2024-12-20 18:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 18:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 18:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 18:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 18:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 18:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 18:47:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 18:47:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 18:52:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-20 18:52:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-20 18:52:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-20 18:57:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 18:57:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:02:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:02:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:07:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:07:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:12:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:12:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:17:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:17:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:22:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar pendingreason_autobump_autosolve
+2024-12-20 19:22:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar taskscheduler
+2024-12-20 19:22:22 [@DESKTOP-732BNJT]
+Externo #3: Ejecutar wakeupAgents
+2024-12-20 19:27:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:27:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:32:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:32:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:37:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:37:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
+2024-12-20 19:42:22 [@DESKTOP-732BNJT]
+Externo #1: Ejecutar taskscheduler
+2024-12-20 19:42:22 [@DESKTOP-732BNJT]
+Externo #2: Ejecutar wakeupAgents
